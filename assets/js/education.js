@@ -5,66 +5,34 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    title: "Belajar Dasar Visualisasi Data",
+    cardImage: "assets/images/education-page/dicoding.png",
+    moocLink: "https://www.dicoding.com/academies/177",
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
+    title: "Memulai Pemrograman Dengan Python",
+    cardImage: "assets/images/education-page/dicoding.png",
+    moocLink: "https://www.dicoding.com/academies/86",
   },
   {
-    title: "Machine Learning",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/machine-learning",
+    title: "Belajar Machine Learning untuk Pemula",
+    cardImage: "assets/images/education-page/dicoding.png",
+    moocLink: "https://www.dicoding.com/academies/184",
   },
   {
-    title: "Introduction to HTML 5",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "HCIA-AI",
+    cardImage: "assets/images/education-page/huawei-logo.png",
+    moocLink: "https://e.huawei.com/en/talent/#/cert/product-details?certifiedProductId=345&authenticationLevel=CTYPE_CARE_HCIA&technicalField=BSH",
   },
   {
-    title: "Introduction to CSS 3",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+    title: "Python",
+    cardImage: "assets/images/education-page/progate.png",
+    moocLink: "https://progate.com/courses/python",
   },
   {
-    title: "Javascript",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink: "https://www.udacity.com/course/intro-to-javascript--ud803",
-  },
-  {
-    title: "Bootstrap 4",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
-  },
-  {
-    title: "Intro to React",
-    cardImage: "assets/images/education-page/edx.svg",
-    moocLink: "https://www.edx.org/learn/reactjs",
-  },
-  {
-    title: "Intro to React Native",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink:
-      "https://www.coursera.org/lecture/react-native/introduction-to-react-native-Eax0D",
-  },
-  {
-    title: "NodeJS, Express and MongoDB",
-    cardImage: "assets/images/education-page/coursera2.svg",
-    moocLink: "https://www.coursera.org/learn/server-side-nodejs",
-  },
-  {
-    title: "XML-AJAX",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/course/xml-from-beginner-to-expert/",
-  },
-  {
-    title: "Data Structures & Algorithms",
-    cardImage: "assets/images/education-page/udacity.svg",
-    moocLink:
-      "https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256",
+    title: "Full-Stack Build Streaming Website Like Netflix",
+    cardImage: "assets/images/education-page/bwa.png",
+    moocLink: "https://buildwithangga.com/kelas/full-stack-laravel-react-js-build-streaming-website-like-netflix",
   },
 ];
 
